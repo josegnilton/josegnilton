@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo José Genilton</h1>
 <h3 align="center">Um desenvolvedor fullstack do Brasil</h3>
 
-<h2 align="center">Essa parte do perfil ainda está em construção</h2>
+<h4 align="center">Essa parte do perfil ainda está em construção</h4>
 
 - 🔭 Atualmente estou atuando como Desenvolvedor na [Vacuum, uma comunidade para desenvolvedores.](https://discord.gg/vacuum)
 
