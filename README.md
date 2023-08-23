@@ -3,8 +3,6 @@
 
 <h4 align="center">Essa parte do perfil ainda está em construção</h4>
 
-- 🔭 Atualmente estou atuando como Desenvolvedor na [Vacuum, uma comunidade para desenvolvedores.](https://discord.gg/vacuum)
-
 - 🌱 Atualmente estou melhorando meus conhecimentos em **NextJS e frameworks de backend que utilizam node e PHP. Além de estar apaixonado pelo universo das inteligências artificiais**
 
 - 📫 E-mail para contato **genilton.jr@gmail.com**
