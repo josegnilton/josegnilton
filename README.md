@@ -1,25 +1,54 @@
-<h1 align="center">Olá, me chamo José Genilton</h1>
-<h3 align="center">Um desenvolvedor fullstack do Brasil</h3>
+<h1 align="center">Olá, eu sou José Genilton 👋</h1>
+<h3 align="center">Quality Assurance Analyst com experiência em desenvolvimento fullstack</h3>
 
-<h4 align="center">Essa parte do perfil ainda está em construção</h4>
-
-- 🌱 Atualmente estou melhorando meus conhecimentos em **NextJS e frameworks de backend que utilizam node e PHP. Além de estar apaixonado pelo universo das inteligências artificiais**
-
-- 📫 E-mail para contato **genilton.jr@gmail.com**
-
-- 📄 Minhas experiências estão bem definidas no Linkedin [https://www.linkedin.com/in/jose-genilton/](https://www.linkedin.com/in/jose-genilton/)
-
-- ⚡ Curiosidades aleatórias **Me formei em engenharia civil e fui direto trabalhar como programador, perseguindo meu velho sonho de infância.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jose-genilton/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-genilton/" height="30" width="40" /></a>
-<a href="https://discord.gg/JoseG#0556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JoseG#0556" height="30" width="40" /></a>
+<p align="center">
+🎮 Apaixonado por games, tecnologia e inteligência artificial • QA com foco em qualidade e performance <br/>
+💻 Experiência sólida com testes manuais, automatizados e desenvolvimento web • React, Laravel, Cypress, Next.js
 </p>
 
+---
+
+### 💼 Sobre mim
+
+Sou um analista de qualidade com mais de 5 anos de experiência testando soluções digitais, tanto manual quanto automaticamente. Atuei com times internacionais, contribuindo para a estabilidade de plataformas web e mobile. Tenho background em desenvolvimento fullstack, o que me permite entender com profundidade as raízes dos problemas e colaborar de forma eficaz com desenvolvedores.
+
+- 🔍 Foco em testes exploratórios, regressivos e e2e
+- 🧪 Ferramentas: Cypress, Selenium, Robot Framework, Postman
+- 💡 Stack: JavaScript, TypeScript, PHP, React, Laravel, Node.js, Next.js
+- 🧠 Interesse atual: IA generativa e desenvolvimento de jogos imersivos em VR
+
+---
+
+### 📫 Contato
+
+- Email: **genilton.jr@gmail.com**  
+- LinkedIn: [linkedin.com/in/jose-genilton](https://www.linkedin.com/in/jose-genilton/)
+- Discord: **JoseG#0556**
+
+---
+
+### 🧰 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=fff)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-<a href="https://github.com/josegnilton">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegnilton&layout=compact&langs_count=8&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josegnilton&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josegnilton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegnilton&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
+---
+
+### ⚡ Curiosidade
+
+🎓 Me formei em Engenharia Civil, mas decidi seguir meu sonho de infância: trabalhar com tecnologia e jogos. Hoje, atuo com QA e desenvolvimento, unindo precisão técnica com criatividade gamer.
